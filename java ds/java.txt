@@ -1,0 +1,37 @@
+14-03-2024
+longest common subsequences-->using recursion and dynamic programming
+longest palindrome subsets -->using dynamic programming  
+hw-->recursion
+
+length of super sequence (union)
+s1=abc
+s2=bcd
+s=abcd
+
+subsequence   (intersection)
+
+abaaca
+longest palindromic string:aba
+longest palindromic subsequence:aaaa
+
+abc
+substring:a,b,c,ab,ac,bc
+subsequences:ab,bc,ac,a,b,c
+
+s1=abaac
+s2=caaba
+common substring:
+longest palindromic subsequence:
+length of longest common subsequence:
+=>length of smallest super subsequence
+=>length of longest 
+
+favtutor
+
+multiplication of chain of matrix A2*3     B2*3
+number of multiplications
+
+wine setting problem 
+
+100,180,260,310,40,535,693
+prices of a share u can buy or sell at this price 
